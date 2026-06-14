@@ -19,13 +19,13 @@
 
 | # | Name | LinkedIn Posts | YouTube Transcript | Status |
 |---|------|---------------|-------------------|--------|
-| 1 | Aleyda Solís | ⬜ Pending | ⬜ Pending | Not started |
-| 2 | Lily Ray | ⬜ Pending | ⬜ Pending | Not started |
-| 3 | Nathan Gotch | ⬜ Pending | ⬜ Pending | Not started |
-| 4 | Matt Diggity | ⬜ Pending | ⬜ Pending | Not started |
-| 5 | Sujan Sarkar | ⬜ Pending | ⬜ Pending | Not started |
-| 6 | Sam Dunning | ⬜ Pending | ⬜ Pending | Not started |
-| 7 | Ross Simmonds | ⬜ Pending | ⬜ Pending | Not started |
-| 8 | Kyle Roof | ⬜ Pending | ⬜ Pending | Not started |
-| 9 | James Dooley | ⬜ Pending | ⬜ Pending | Not started |
-| 10 | Oleg Stogner | ⬜ Pending | ⬜ Pending | Not started |
+| 1 | Aleyda Solís | ✅ Done | ⬜ Pending | LinkedIn complete |
+| 2 | Lily Ray | ✅ Done | ⬜ Pending | LinkedIn complete |
+| 3 | Nathan Gotch | ✅ Done | ⬜ Pending | LinkedIn complete |
+| 4 | Matt Diggity | ✅ Done | ⬜ Pending | LinkedIn complete |
+| 5 | Sujan Sarkar | ✅ Done | ⬜ Pending | LinkedIn complete |
+| 6 | Sam Dunning | ✅ Done | ⬜ Pending | LinkedIn complete |
+| 7 | Ross Simmonds | ✅ Done | ⬜ Pending | LinkedIn complete |
+| 8 | Kyle Roof | ✅ Done | ⬜ Pending | LinkedIn complete |
+| 9 | James Dooley | ✅ Done | ⬜ Pending | LinkedIn complete |
+| 10 | Kevin Indig | ✅ Done | ⬜ Pending | LinkedIn complete |
