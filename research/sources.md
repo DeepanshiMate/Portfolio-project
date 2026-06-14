@@ -13,7 +13,7 @@
 | 7 | Ross Simmonds | Founder of Foundation Marketing | [LinkedIn](https://www.linkedin.com/in/rosssimmonds) | [YouTube](https://www.youtube.com/@RossSimmonds) | Focuses on AI content production and distribution for B2B |
 | 8 | Kyle Roof | SEO Experimenter | [LinkedIn](https://www.linkedin.com/in/kyleroof) | [YouTube](https://www.youtube.com/@kyleroof) | Runs controlled SEO experiments — data not opinions |
 | 9 | James Dooley | AI SEO & Business Automation Podcast Host | [LinkedIn](https://www.linkedin.com/in/jamesdooley) | [YouTube](https://www.youtube.com/@jamesdooley) | Specifically covers AI-era SEO and automation tactics |
-| 10 | Oleg Stogner | SEO Lead at Stigan Media | [LinkedIn](https://www.linkedin.com/in/olegstogner) | - | Sold two sites for $1M+ — bridges old SEO with new AI strategies |
+| 10 | Kevin Indig | B2B SEO Expert, Former VP of SEO at Shopify & G2 | [LinkedIn](https://www.linkedin.com/in/kevinindig) | [YouTube](https://www.youtube.com/@kevinindig) | Specialises in B2B SaaS SEO at scale — worked at Shopify and G2 |
 
 ## Collection Status
 
